@@ -79,3 +79,6 @@ The application takes into account various factors such as **genre**, **mood**, 
 ## 📝 Conclusion
 The **Movie Recommendation System** is an engaging tool designed to help users discover new films tailored to their tastes. By incorporating user preferences in terms of language, genre, and mood, the system ensures that recommendations are relevant and personalized. Whether you're in the mood for a Bollywood blockbuster or a classic Hollywood film, this application is your perfect companion for a night in.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
